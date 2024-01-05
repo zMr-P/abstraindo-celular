@@ -1,0 +1,14 @@
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.AssemblyInfoInputs.cache
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.AssemblyInfo.cs
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.csproj.CoreCompileInputs.cache
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\bin\Debug\net7.0\AbstraindoCelular.exe
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\bin\Debug\net7.0\AbstraindoCelular.deps.json
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\bin\Debug\net7.0\AbstraindoCelular.runtimeconfig.json
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\bin\Debug\net7.0\AbstraindoCelular.dll
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\bin\Debug\net7.0\AbstraindoCelular.pdb
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.dll
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\refint\AbstraindoCelular.dll
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.pdb
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.genruntimeconfig.cache
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\ref\AbstraindoCelular.dll
