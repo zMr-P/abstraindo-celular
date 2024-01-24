@@ -12,3 +12,4 @@ C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\refint\Abstrain
 C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.pdb
 C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.genruntimeconfig.cache
 C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\ref\AbstraindoCelular.dll
+C:\Projetos\AbstraindoCelular\AbstraindoCelular\obj\Debug\net7.0\AbstraindoCelular.sourcelink.json

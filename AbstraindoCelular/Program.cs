@@ -16,7 +16,7 @@ namespace AbstraindoCelularOOP
             Console.WriteLine("\n" + nokia);
             nokia.ReceberLigacao(iphone);
 
-            Console.ReadLine();
+            Console.ReadKey();
             Console.Clear();
 
             Console.WriteLine(nokia);
@@ -24,7 +24,7 @@ namespace AbstraindoCelularOOP
             Console.WriteLine("\n" + iphone);
             iphone.ReceberLigacao(nokia);
 
-            Console.ReadLine();
+            Console.ReadKey();
             Console.Clear();
 
             Console.WriteLine(iphone);
@@ -32,7 +32,7 @@ namespace AbstraindoCelularOOP
             Console.WriteLine("\n" + nokia);
             nokia.InstalarAplicativo("WhatsApp", 20);
 
-            Console.ReadLine();
+            Console.ReadKey();
             Console.Clear();
 
             Console.WriteLine(iphone);

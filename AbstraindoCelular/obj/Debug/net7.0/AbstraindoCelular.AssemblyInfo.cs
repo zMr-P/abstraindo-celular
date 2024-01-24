@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstraindoCelular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dddcdab95c40da0d5620b5afc95bab0808dc799")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstraindoCelular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstraindoCelular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
